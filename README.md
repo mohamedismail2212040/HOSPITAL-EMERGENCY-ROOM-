@@ -125,22 +125,19 @@ April 2023 – October 2024
 * Enabled evidence-based decision-making
 
 ---
-
 ## Dashboard Screenshots
 
 ### Monthly View
-![Monthly View](screenshots/monthly_view.png)
+![Monthly View](1.%20MONTHLY%20VIEW.png)
 
 ### Consolidated View
-![Consolidated View](screenshots/consolidated_view.png)
+![Consolidated View](2.%20CONSOLIDATE%20VIEW.png)
 
 ### Patient Details
-![Patient Details](screenshots/patient_details.png)
+![Patient Details](3.%20PATIENT%20DETAILS.png)
 
 ### Key Takeaways
-![Key Takeaways](screenshots/key_takeaways.png)
+![Key Takeaways](4.%20KEY%20TAKAWAYS.png)
 
-### Business Requirements
-![Business Requirements](screenshots/business_requirements.png)
 
 
