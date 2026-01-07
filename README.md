@@ -126,5 +126,21 @@ April 2023 – October 2024
 
 ---
 
+## Dashboard Screenshots
+
+### Monthly View
+![Monthly View](screenshots/monthly_view.png)
+
+### Consolidated View
+![Consolidated View](screenshots/consolidated_view.png)
+
+### Patient Details
+![Patient Details](screenshots/patient_details.png)
+
+### Key Takeaways
+![Key Takeaways](screenshots/key_takeaways.png)
+
+### Business Requirements
+![Business Requirements](screenshots/business_requirements.png)
 
 
